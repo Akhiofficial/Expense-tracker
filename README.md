@@ -17,7 +17,7 @@ A simple web-based **Expense Tracker** built using **HTML**, **CSS**, and **Java
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Akhiofficial/Expense-tracker-.git
    ```
 2. Open `index.html` in your web browser to use the app.
 
